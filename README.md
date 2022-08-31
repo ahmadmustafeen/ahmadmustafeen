@@ -2,7 +2,11 @@
 
 
 ## 🚀 About Me
-Quality Driven Frontend Engineer working in the industry for about 3 years, creating pixel perfect UI and architecture and providing value to the customers, while taking measure the quality of the code and implementing best practices.
+Hi, I am Ahmad,
+A Quality Driven Frontend Engineer working in the industry for about 3 years, creating pixel perfect UI and architecture and providing value to the customers, while taking measure the quality of the code and implementing best practices.
+I love to work on challenging projects and have my career made from this.
+My biggest dream is to save the world from Zombie Apocolypse using JavaScript.
+
 
 
 ## 🛠 Skills
