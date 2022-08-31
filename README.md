@@ -19,6 +19,21 @@ Node.js, Express.js, GraphQL,
 MongoDB, DynamoDB, MySQL 
 ### Services:
 AWS Web Services, AWS S3, AWS EC2, AWS SES
+<br>
+<br>
+<br>
+
+### Reviews
+
+"Outstanding. We recommend Ahmad. Great communication. Very polite and competent. Delivery on time and perfect quality."
+~Tamador, USA
+
+"A very great experience. Ahmad is a talented individual and I really enjoyed working with him. He's always available for communication and open to changes."
+~Omar, Turkey
+
+<br>
+<br>
+<br>
 
 
 
