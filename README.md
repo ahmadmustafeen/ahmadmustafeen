@@ -2,11 +2,11 @@
 
 
 ## 🚀 About Me
-Hi, I am Ahmad,
-A Quality Driven Frontend Engineer working in the industry for about 3 years, creating pixel perfect UI and architecture and providing value to the customers, while taking measure the quality of the code and implementing best practices.
+Hey I am Ahmad Mustafeen
 <br>
-I love to work on challenging projects and have my career made from this.
-
+A Quality Driven Software Engineer working in the industry for about 3 years, creating pixel perfect UI, architectures and providing value to the customers, while taking measure the quality of the code and implementing best practices.
+<br>
+Self-taught app development expert having hands-on experience with both Android and iOS. Which has proven to be a great addition to my software engineering skill set.
 
 
 
