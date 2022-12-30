@@ -7,7 +7,7 @@ Hey I am Ahmad Mustafeen
 A Quality Driven Software Engineer working in the industry for about 3 years, creating pixel perfect UI, architectures and providing value to the customers, while taking measure the quality of the code and implementing best practices.
 <br>
 Self-taught app development expert having hands-on experience with both Android and iOS. Which has proven to be a great addition to my software engineering skill set.
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img src="https://i.gifer.com/7fzT.gif" />
 
 
 ## 🛠 Skills
