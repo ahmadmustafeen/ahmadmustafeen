@@ -8,7 +8,7 @@ A Quality Driven Software Engineer working in the industry for about 3 years, cr
 <br>
 Self-taught app development expert having hands-on experience with both Android and iOS. Which has proven to be a great addition to my software engineering skill set.
 
-<img align="right" alt="GIF" src="https://i.gifer.com/7fzT.gif" width="400" />
+<img align="right" alt="GIF" src="https://drive.google.com/uc?export=download&id=1zAwnlzhEzNvCxcxIyQlGXWEVxF0XucdX" width="400" />
 
 
 ## 🛠 Skills
