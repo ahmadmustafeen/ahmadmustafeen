@@ -3,7 +3,10 @@
 
 ## 🚀 About Me
 Hey I am Ahmad Mustafeen
-<img align="right" alt="GIF" src="https://drive.google.com/uc?export=download&id=1zAwnlzhEzNvCxcxIyQlGXWEVxF0XucdX" width="400" />
+<img align="right" 
+     
+     style="border-radius:100px;"
+     alt="GIF" src="https://drive.google.com/uc?export=download&id=1zAwnlzhEzNvCxcxIyQlGXWEVxF0XucdX" width="400" />
 
 <br>
 A Quality Driven Software Engineer working in the industry for about 3 years, creating pixel perfect UI, architectures and providing value to the customers, while taking measure the quality of the code and implementing best practices.
