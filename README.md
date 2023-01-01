@@ -30,7 +30,8 @@ Self-taught app development expert having hands-on experience with both Android 
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
   
 </p>
-## Backend:
+
+### Backend:
 <p> <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="NestJs" src="https://custom-icon-badges.demolab.com/badge/jest-ea2845.svg?logo=nestjs"></a>
     <a href="#"><img alt="Jest" src="https://custom-icon-badges.demolab.com/badge/jest-ff3c0c.svg?logo=jest"></a>
