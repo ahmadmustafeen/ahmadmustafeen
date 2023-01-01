@@ -23,18 +23,21 @@ Self-taught app development expert having hands-on experience with both Android 
 
 
 
-## 🛠 Skills
-### Frontend:
-JavaScript, TypeScript, React, React Native, Next.js,
-### Backend:
-Node.js, Express.js, GraphQL, 
-### Database:
-MongoDB, DynamoDB, MySQL 
-### Services:
-AWS Web Services, AWS S3, AWS EC2, AWS SES
-<br>
-<br>
-<br>
+<p>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-E8E8E8?logo=tailwindcss&logoColor=black%22"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
+    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="NestJs" src="https://custom-icon-badges.demolab.com/badge/jest-ea2845.svg?logo=nestjs"></a>
+    <a href="#"><img alt="Jest" src="https://custom-icon-badges.demolab.com/badge/jest-ff3c0c.svg?logo=jest"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+     <a href="#"><img alt="Next" src="https://img.shields.io/badge/NextJs-000000.svg?logo=Next.Js&logoColor=white"></a>
+    <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-fff.svg?logo=graphql&logoColor=e10098"></a>
+    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+</p>
+
 
 ### Reviews
 
