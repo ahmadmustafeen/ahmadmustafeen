@@ -25,12 +25,13 @@ Self-taught app development expert having hands-on experience with both Android 
 
 ### Frontend:
 <p>
+     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+     <a href="#"><img alt="Next" src="https://img.shields.io/badge/NextJs-000000.svg?logo=Next.Js&logoColor=white"></a>
+     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-E8E8E8?logo=tailwindcss&logoColor=black%22"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-     <a href="#"><img alt="Next" src="https://img.shields.io/badge/NextJs-000000.svg?logo=Next.Js&logoColor=white"></a>
+  
 </p>
 ## Backend:
 <p> <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
