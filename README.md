@@ -4,7 +4,7 @@
 ## 🚀 About Me
 Hey I am Ahmad Mustafeen
 <p align="center">
- <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+stack+web+and+app+developer;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Always+open+to+amazing+ideas" alt="Typing SVG" /></a>
 </p>
 <p align="center">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ahmadmustafeen's streak" src="https://streak-stats.demolab.com/?user=ahmadmustafeen&theme=monokai-metallian&hide_border=true"/>
