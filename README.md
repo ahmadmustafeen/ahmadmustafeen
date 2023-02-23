@@ -56,13 +56,16 @@ In addition to my formal education, I am also a self-taught expert in app develo
 
 ## Feedback
 
-If you have any feedback, please reach out to us at work@ahmadmustafeen.com
+If you have any feedback, please reach out to us at engr.ahmadmustafeen@gmail.com
 
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ahmadmustafeen.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadmustafeen)
 [![medium](https://img.shields.io/badge/medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://ahmadmustafeen.medium.com)
+
+## play chess with me
+### https://www.chess.com/member/ahmadmustafeen
 
 <br>
 <br>
