@@ -14,9 +14,9 @@ Hey I am Ahmad Mustafeen
 <br>
 
 
-As a software engineer with three years of industry experience, I am dedicated to delivering high-quality, visually appealing user interfaces and efficient software architectures. I take pride in ensuring the code I produce is of the highest standard, always following best practices in the industry.
+As an experienced software developer with over 3 years in the field, I have developed a deep understanding of enterprise software development, agile teams, and software design patterns. I take pride in delivering top-notch code and user-friendly experiences, consistently striving for excellence in everything I do.
 
-In addition to my formal education, I am also a self-taught expert in app development, having hands-on experience with both Android and iOS platforms. This expertise has greatly enhanced my software engineering skills, making me a valuable asset to any team.
+My unique skill set comprises a blend of technical proficiency, project management abilities, and client interaction experience. Through close collaboration with software company executives, I have honed my ability to ensure optimal client satisfaction and coding standards. I have also served as a Scrum Master, taking on a range of responsibilities and ensuring smooth project execution.
 
 
 ## Technologies I Love:
