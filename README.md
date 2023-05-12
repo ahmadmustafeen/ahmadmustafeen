@@ -11,6 +11,9 @@ Hey I am Ahmad Mustafeen
 </p>
 <img align="right" style="border-radius:100px; overflow:hidden" alt="GIF" src="https://drive.google.com/uc?export=download&id=1zAwnlzhEzNvCxcxIyQlGXWEVxF0XucdX" width="400" />
 
+
+<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahmadmustafeen)](https://github.com/ahmadmustafeen/github-profile-trophy)
 <br>
 
 
