@@ -25,7 +25,7 @@ My unique skill set comprises a blend of technical proficiency, project manageme
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadmustafeen" alt="ahmadmustafeen" /></a> </p>
+
 <br>
 
 ## Technologies I Love:
