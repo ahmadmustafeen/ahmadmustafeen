@@ -17,14 +17,16 @@ Hey I am Ahmad Mustafeen
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadmustafeen" alt="ahmadmustafeen" /></a> </p>
-<br>
 
 
 As an experienced software developer with over 3 years in the field, I have developed a deep understanding of enterprise software development, agile teams, and software design patterns. I take pride in delivering top-notch code and user-friendly experiences, consistently striving for excellence in everything I do.
 
 My unique skill set comprises a blend of technical proficiency, project management abilities, and client interaction experience. Through close collaboration with software company executives, I have honed my ability to ensure optimal client satisfaction and coding standards. I have also served as a Scrum Master, taking on a range of responsibilities and ensuring smooth project execution.
 
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadmustafeen" alt="ahmadmustafeen" /></a> </p>
+<br>
 
 ## Technologies I Love:
 
