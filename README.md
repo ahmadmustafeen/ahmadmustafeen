@@ -57,8 +57,9 @@ If you have any feedback, please reach out to us at engr.ahmadmustafeen@gmail.co
 | :---:        |    :----   |  
 | [Project Name](project url)  | Project Description
    -->  
-# ⚙️ GitHub Analytics
+
   <!--
+  # ⚙️ GitHub Analytics
 <table>
   <tr>
 <td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=ahmadmustafeen&show_icons=true&theme=dark" />
