@@ -1,6 +1,3 @@
-
-![reame4](https://user-images.githubusercontent.com/90326051/164891150-8bc4a1d8-b9df-4a83-8857-3cf47e320658.png)  -->
-
 <h1 align="center" >Hey, I'm <a href="https://www.linkedin.com/in/ahmadmustafeen/" target="_blank"> Ahmad Mustafeen 👋</a>
   </br>
   <!-- 
