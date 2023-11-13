@@ -58,13 +58,14 @@ If you have any feedback, please reach out to us at engr.ahmadmustafeen@gmail.co
 | [Project Name](project url)  | Project Description
    -->  
 # ⚙️ GitHub Analytics
-  
+  <!--
 <table>
   <tr>
 <td><img height="180px" src="https://github-readme-stats.vercel.app/api?username=ahmadmustafeen&show_icons=true&theme=dark" />
     <td><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadmustafeen&layout=compact&theme=dark" /></td>
   </tr>
 </table>
+-->
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadmustafeen&layout=compact&theme=dark" alt="ahmadmustafeen"/></p>
