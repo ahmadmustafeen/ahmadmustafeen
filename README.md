@@ -15,7 +15,7 @@ I am <b>Ahmad</b> <b>Computer Engineer</b> from Dawood University of Engineering
 <h3 align="center">Tech Enthusiast | FullStack Developer | Microsoft Certified </h3>
    <div align="center">
 
- <h1 align="center">Connect with me</h1>
+ <a  href="https://www.linkedin.com/in/ahmadmustafeen" target="_blank"><h1 align="center">Connect with me</h1></a>
 
 <div align="center">
 <a  href="https://www.linkedin.com/in/ahmadmustafeen" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -37,7 +37,7 @@ My unique skill set comprises a blend of technical proficiency, project manageme
 
 ### "Believe you can and you're halfway there!"
 
-**I am always up for open source contributions, let's collaborate together!**
+**I am always up for open-source contributions, let's collaborate together!**
 
 <p align="center"> 
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
