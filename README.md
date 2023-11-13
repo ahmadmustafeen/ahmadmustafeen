@@ -56,6 +56,9 @@ If you have any feedback, please reach out to us at engr.ahmadmustafeen@gmail.co
 | Project Name | Description | 
 | :---:        |    :----   |  
 | [Anyaa.io](https://anyaa.io)  | Small Business Owners looking to build a presence online, sell products & services, manage & schedule customers, communicate with & grow their customer base, choose Anyaa.io.
+| [SkilledScore](https://skilledscore.com)  | A smarter way to find the right skills and jobs. Create your profile and get your score. Achieve Your Professional Goals with Skilledscore" Skilled score helped me score a new job that I was dreaming of. Improve and share your skill score.
+
+|[Quickwrite](https://www.skilledgeeks.us)| QuickWrite, developed by Geeks Of Kolachi, is an innovative content creation platform that empowers users to effortlessly generate compelling blogs on the latest trends from Twitter and Google. Utilizing the power of OpenAI, QuickWrite enables users to craft insightful and engaging articles while offering the added ability to generate relevant images that complement their content. Seamlessly integrating with popular blogging sites like WordPress
 
   <!--
   # ⚙️ GitHub Analytics
