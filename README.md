@@ -8,7 +8,9 @@
 <!-- <h3>About me,</h3> -->
 <h1 align="center"> About me</h1>
 
-I am <b>Ahmad</b> <b>Computer Engineer</b> from Dawood University of Engineering and Technology. I’m a Full Stack Developer living in Karachi, Pakistan. As of now, I am focused on <b>LLMs and AI Models</b>⚡
+As a Software Engineer at <b>Geeks of Kolachi</b>, I bring exceptional value to the company by creating cutting-edge software solutions that span both the <b>Backend and Frontend</b> domains. With a Bachelor of Engineering in <b>Computer Engineering</b> from Dawood University of Engineering and Technology, I have a solid foundation in software design, web engineering, and software industry best practices.
+
+I'm also passionate about expanding my expertise into the world of <b>AI Generative Services</b>, utilizing <b>OpenAI APIs</b>, and working with LLMs using <b>Langchain and Pinecone</b> for creating custom bots. Some of the highlights from my experience include developing an innovative Job Searching platform, building an OpenAI platform for generating trending blogs, and contributing to an All-in-one E-commerce application. My mission is to empower startups with MVP development and pitch-ready solutions while delivering seamless web experiences.
 
 <!--> ### I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.❤ -->
 
