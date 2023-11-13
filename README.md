@@ -55,7 +55,7 @@ If you have any feedback, please reach out to us at engr.ahmadmustafeen@gmail.co
 
 | Project Name | Description | 
 | :---:        |    :----   |  
-| [Anyaa.io](https://github.com/ahmadmustafeen/ahmadmustafeen/blob/04fd2c6f5882913a8681eb8e50394dc29d505fdb/anyaa.png)  | Small Business Owners looking to build a presence online, sell products & services, manage & schedule customers, communicate with & grow their customer base, choose Anyaa.io.
+| [Anyaa.io](https://anyaa.io)  | Small Business Owners looking to build a presence online, sell products & services, manage & schedule customers, communicate with & grow their customer base, choose Anyaa.io.
 
   <!--
   # ⚙️ GitHub Analytics
