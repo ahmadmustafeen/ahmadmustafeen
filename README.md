@@ -53,9 +53,9 @@ If you have any feedback, please reach out to us at engr.ahmadmustafeen@gmail.co
 <h1 align="center">💻 Projects</h1>
 
 
-| Project Name      | Description | 
+| Project Name | Description | 
 | :---:        |    :----   |  
-| [Anyaa.io](https://github.com/ahmadmustafeen/ahmadmustafeen/blob/04fd2c6f5882913a8681eb8e50394dc29d505fdb/anyaa.png)  | Anyaa.io, a multi-vendor E-Commerce platform. My role focused on maintaining high-quality code and building a strong architectural foundation. I consistently delivered reliable software solutions, contributing to the company's success.
+| [Anyaa.io](https://github.com/ahmadmustafeen/ahmadmustafeen/blob/04fd2c6f5882913a8681eb8e50394dc29d505fdb/anyaa.png)  | Small Business Owners looking to build a presence online, sell products & services, manage & schedule customers, communicate with & grow their customer base, choose Anyaa.io.
 
   <!--
   # ⚙️ GitHub Analytics
