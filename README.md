@@ -2,10 +2,15 @@
 <br/>
 <br/>
 
+
 <h1 align="center" >Hey, I'm <a href="https://ahmadmustafeen.com" target="_blank"> Ahmad Mustafeen 👋</a>
 <br/>
 
 ### <h3 align="center">Tech Enthusiast | FullStack Developer | Microsoft Certified </h3>
+
+<p align="center">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ahmadmustafeen's streak" src="https://streak-stats.demolab.com/?user=ahmadmustafeen&theme=monokai-metallian&hide_border=true"/>
+</p>
  
 ## <h1 align="center"> About me</h1>
 
