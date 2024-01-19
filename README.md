@@ -72,11 +72,58 @@ If you have any feedback, please reach out to us at engr.ahmadmustafeen@gmail.co
 
 <h1 align="center">💻 Projects</h1>
 
-|               Project Name                | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| :---------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       [Anyaa.io](https://anyaa.io)        | Small Business Owners looking to build a presence online, sell products & services, manage & schedule customers, communicate with & grow their customer base, choose Anyaa.io.                                                                                                                                                                                                                                                                                    |
-| [SkilledScore](https://skilledscore.com)  | A smarter way to find the right skills and jobs. Create your profile and get your score. Achieve Your Professional Goals with Skilledscore" Skilled score helped me score a new job that I was dreaming of. Improve and share your skill score.                                                                                                                                                                                                                   |
-| [Quickwrite](https://www.skilledgeeks.us) | QuickWrite, developed by Geeks Of Kolachi, is an innovative content creation platform that empowers users to effortlessly generate compelling blogs on the latest trends from Twitter and Google. Utilizing the power of OpenAI, QuickWrite enables users to craft insightful and engaging articles while offering the added ability to generate relevant images that complement their content. Seamlessly integrating with popular blogging sites like WordPress |
+
+
+## <h2>Anyaa.io</h2> 
+    
+<img height="250px" align="left"   src="https://github.com/ahmadmustafeen/ahmadmustafeen/blob/af8cbc8af753f715085e8c71a4097dddac8d1fc3/anyaa.png">
+   
+<p align="right" height="250px">
+    Anyaa is an online platform specialized in e-commerce that allows business owners in Saudi Arabia to open an integrated online store without the help of an external team of programmers or designers. The success of your business starts with having a trusted partner who provides you with all your needs, from the launching of your online store to the shipping orders.
+</p>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+## <h2>SkilledScore.com</h2>
+
+
+    
+<img  height="250px" align="left"   src="https://github.com/ahmadmustafeen/ahmadmustafeen/blob/af8cbc8af753f715085e8c71a4097dddac8d1fc3/skilledscore.png">
+   
+<p align="right" height="250px">
+  SkilledScore empowers you to boost your skills, aligning them with job market demands to position you as a top candidate for your dream career.
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+## <h2>Quickwrite.us</h2>
+
+
+    
+<img  height="250px" align="left"   src="https://github.com/ahmadmustafeen/ahmadmustafeen/blob/af8cbc8af753f715085e8c71a4097dddac8d1fc3/quickwrite.png">
+   
+<p align="right" height="250px">
+  QuickWrite, developed by Geeks Of Kolachi, is an innovative content creation platform that empowers users to effortlessly generate compelling blogs on the latest trends from Twitter and Google. Utilizing the power of OpenAI, QuickWrite enables users to craft insightful and engaging articles while offering the added ability to generate relevant images that complement their content. Seamlessly integrating with popular blogging sites like WordPress
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 ## What People Say about me
 
