@@ -39,7 +39,7 @@ Highlights of my work include developing AI-powered platforms for content genera
    
    <img width="40%" align="right"   src="https://user-images.githubusercontent.com/90326051/196059543-f26eed56-e331-4211-8c0f-7ec25ab482de.png">
 
-As an experienced software developer with around 4 years in the field, I have developed a deep understanding of enterprise software development, agile teams, and software design patterns. I take pride in delivering top-notch code and user-friendly experiences, consistently striving for excellence in everything I do.
+As an experienced software developer with over 5 years in the field, I have developed a deep understanding of enterprise software development, agile teams, and software design patterns. I take pride in delivering top-notch code and user-friendly experiences, consistently striving for excellence in everything I do.
 
 My unique skill set comprises a blend of technical proficiency, project management abilities, and client interaction experience. Through close collaboration with software company executives, I have honed my ability to ensure optimal client satisfaction and coding standards.
 
