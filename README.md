@@ -12,15 +12,16 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ahmadmustafeen's streak" src="https://streak-stats.demolab.com/?user=ahmadmustafeen&theme=monokai-metallian&hide_border=true"/>
 </p>
  
-## <h1 align="center"> About me</h1>
+## <h1 align="center"> About Me </h1>
 
-As a Software Engineer at <b>Geeks of Kolachi</b>, I bring exceptional value to the company by creating cutting-edge software solutions that span both the <b>Backend and Frontend</b> domains. <br/>
-With a Bachelor of Engineering in <b>Computer Engineering</b> from Dawood University of Engineering and Technology, I have a solid foundation in software design, web engineering, and software industry best practices.
+Software Engineer with 5.5 years of experience building modern web applications and AI solutions across both **frontend and backend** domains. Founder of **LeadWise**, where I’m exploring AI-driven technologies to improve user engagement and lead generation through intelligent chatbots.
 
-I'm also passionate about expanding my expertise into the world of <b>AI Generative Services</b>, utilizing <b>OpenAI APIs</b>, and working with LLMs using <b>Langchain and Pinecone</b> for creating custom bots.<br/> Some of the highlights from my experience include developing an innovative Job Searching platform, building an OpenAI platform for generating trending blogs, and contributing to an All-in-one E-commerce application.
-<br/>
+I hold a Bachelor of Engineering degree in **Computer Engineering** from Dawood University of Engineering and Technology, and I enjoy working with tools such as **OpenAI APIs, Langchain, and Pinecone** to create innovative solutions.
 
-### My mission is to empower startups with MVP development and pitch-ready solutions while delivering seamless web experiences.
+Highlights of my work include developing AI-powered platforms for content generation, job searching, and scalable e-commerce applications.  
+
+🚀 **My mission:** Deliver seamless web experiences and empower businesses with impactful, modern technology.
+
 
    <div align="center">
 
